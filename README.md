@@ -1,1 +1,1 @@
-file:///D:/task1/index.html
+task1/index.html
