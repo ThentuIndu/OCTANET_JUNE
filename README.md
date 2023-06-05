@@ -1,1 +1,1 @@
-https://github.com/ThentuIndu/OCTANET_JUNE.git
+https://github.com/ThentuIndu/OCTANET_JUNE
